@@ -1,0 +1,11 @@
+[project]
+name = "python-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "helloaleena147@gmail.com", email = "helloaleena147@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
