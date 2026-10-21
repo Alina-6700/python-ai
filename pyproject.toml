@@ -7,5 +7,7 @@ authors = [
     { name = "helloaleena147@gmail.com", email = "helloaleena147@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.4.0",
+]
 

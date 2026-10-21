@@ -48,3 +48,15 @@ City Care Bot: Take care, Sara Malik!
 Chat summary: 4 messages, 1 unanswered.
 Complaints received: 1
 ```
+
+## Module 1 Project: AI Front Desk (Sweet Crumbs bakery)
+
+A front desk bot that answers common questions for free, gives exact price quotes with discounts and delivery fees, and prepares AI-ready prompts for everything else. It ends with a session report the owner can act on.
+
+**Run:** `uv run code/project_m1_front_desk.py`
+
+![Full session with report](docs/project-m1-part2-run.png)
+
+**Value for the owner:** (write one line, for example: it answers the repeated questions and quotes prices without mistakes, so staff save time every day, and the report shows what customers really ask.)
+
+Docs: [design and tests](docs/project-m1-part2-design.md), [AI test results](docs/project-m1-part2-results.md)
